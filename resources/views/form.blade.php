@@ -14,7 +14,7 @@
                     <h1 class="text-2xl font-bold text-gray-900">Add New Contact</h1>
                 </div>
 
-                <form action="/contacts" method="POST">
+                <form action="{{ route('create.post') }}" method="POST">
                     @csrf
 
                     <div class="mb-5">

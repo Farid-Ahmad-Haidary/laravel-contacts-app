@@ -30,13 +30,14 @@
                     <a href="/" class="text-gray-700 hover:text-blue-600 font-medium transition">Home</a>
                     <a href="#" class="text-gray-700 hover:text-blue-600 font-medium transition">About</a>
                     <a href="#" class="text-gray-700 hover:text-blue-600 font-medium transition">Contact</a>
-                    <a href=""
-                        class="bg-blue-600 text-white px-5 py-2 rounded-lg font-medium hover:bg-blue-700 transition shadow-md inline-flex items-center gap-2">
-                        <svg class="h-4 w-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 4v16m8-8H4">
-                            </path>
+                    <a href="#"
+                        class="bg-yellow-600 text-white px-5 py-2 rounded-lg font-medium hover:bg-yellow-800 transition shadow-md inline-flex items-center gap-2">
+                        <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5"
+                            stroke="currentColor" class="w-6 h-6">
+                            <path stroke-linecap="round" stroke-linejoin="round"
+                                d="M15.75 9V5.25A2.25 2.25 0 0013.5 3h-7.5A2.25 2.25 0 003.75 5.25v13.5A2.25 2.25 0 006 21h7.5A2.25 2.25 0 0015.75 18.75V15m3-3l-3-3m0 0l3-3m-3 3H9" />
                         </svg>
-                        New Contact
+                        login
                     </a>
                 </div>
             </div>
